@@ -1,8 +1,8 @@
 # -- Project information -----------------------------------------------------
 
-project = 'Site Title'
-copyright = '2022, Your name'
-author = 'Your Name'
+project = 'Kenneth Avendano'
+copyright = '2023, Kenneth Avendano'
+author = 'Kenneth Avednano'
 
 
 
@@ -21,7 +21,6 @@ extensions = [
     'sphinx.ext.intersphinx',
     "sphinx_design",
     "sphinxext.opengraph",
-    "sphinx_revealjs",
 ]
 
 # "sphinxext.rediraffe",
