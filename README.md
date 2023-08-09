@@ -7,3 +7,10 @@ Welcome to my profile webiste,
 - [ ] Bill Gates 
 - [ ] Jeff Bezos
 - [ ] Elon Musk
+
+
+      
+## Design
+Hierarchy: A big picture of me so the viewer can put a face to the owner of the website
+Grouping: 
+Similarity: 
