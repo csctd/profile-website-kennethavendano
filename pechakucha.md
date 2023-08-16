@@ -13,4 +13,3 @@
 :class-card: slide
 
 ![Picture from College of Engineering balchony](_static/img/IMG_2489.jpeg)
-```

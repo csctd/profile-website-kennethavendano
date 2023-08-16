@@ -53,6 +53,29 @@ html_theme_options = {
   "twitter_url": "https://twitter.com/username",
   "search_bar_text": "Search this site...",
 #   "navbar_end": ["search-field.html"],
+"icon_links": [
+        {
+            # Label for this link
+            "name": "Instagram",
+            # URL where the link will redirect
+            "url": "https://www.instagram.com/kenneth_avendano1/",  # required
+            # Icon class (if "type": "fontawesome"), or path to local image (if "type": "local")
+            "icon": "fa-brands fa-instagram",
+            # The type of image to be used (see below for details)
+            "type": "fontawesome",
+        },
+        {
+        # Label for this link
+            "name": "LinkedIn",
+            # URL where the link will redirect
+            "url": "https://www.linkedin.com/in/kenneth-avendano-433346286/",  # required
+            # Icon class (if "type": "fontawesome"), or path to local image (if "type": "local")
+            "icon": "fa-brands fa-linkedin",
+            # The type of image to be used (see below for details)
+            "type": "fontawesome",
+        }
+
+   ]
 }
 
 # html_favicon = "_static/favicon.ico"
