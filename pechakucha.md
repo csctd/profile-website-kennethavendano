@@ -159,5 +159,5 @@
 ```{card}
 :class-card: slide
 
-![](_static/img/)
+![UCS 160 group picture](_static/img/IMG_2721.JPG)
 ```
